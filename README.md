@@ -1,4 +1,4 @@
-# Environmental Health Score Predictor
+# Environmental Health Score Prediction Using Neural Networks
 
 This repository contains code for predicting Environmental Health Scores using neural networks. The predictor utilizes various environmental factors such as air quality index, water quality index, CO2 growth rate, green areas, renewable energy usage, temperature, waste water treatment, and solid waste treatment.
 
