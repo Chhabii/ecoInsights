@@ -19,7 +19,7 @@ This repository contains code for predicting Environmental Health Scores using n
 
 ## Dataset
 
-The dataset used for training and evaluation is provided in the `datasets` directory.
+The dataset and code used for training and evaluation is provided in the `model` directory.
 
 ## Files
 
